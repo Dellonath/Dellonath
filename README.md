@@ -143,5 +143,5 @@ ________________________________________________________________________________
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellonath&theme=gotham">
-  <img width=624 src="https://github-readme-stats.vercel.app/api?username=Dellonath&show_icons=true&include_all_commits=true&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dellonath&show_icons=true&include_all_commits=true&theme=gotham">
 </p>
