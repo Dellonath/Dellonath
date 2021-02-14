@@ -1,4 +1,4 @@
-<h2 align="center">Hi, welcome to my profile on GitHub!</h2>
+<h2 align="center">Hi, welcome to my GitHub profile!</h2>
 <br>
 <p align="center"><img width = 150 src="https://user-images.githubusercontent.com/56659549/106941005-03b8c100-6701-11eb-9d77-0a4c296bd615.png"></p>
 <p> 
@@ -74,10 +74,10 @@ ________________________________________________________________________________
      <img src="https://img.shields.io/static/v1?label=Seaborn&message=85%&color=107C10&style=for-the-badge&logo=Sketchfab"/>
     </a>
     <a href="https://scikit-learn.org/stable/">
-     <img src="https://img.shields.io/static/v1?label=Scikit-Learn&message=75%&color=A8B9CC&style=for-the-badge&logo=scikit-learn"/>
+     <img src="https://img.shields.io/static/v1?label=Scikit-Learn&message=80%&color=107C10&style=for-the-badge&logo=scikit-learn"/>
     </a>
     <a href="https://keras.io/">
-     <img src="https://img.shields.io/static/v1?label=Keras&message=40%&color=FF7139&style=for-the-badge&logo=Keras"/>
+     <img src="https://img.shields.io/static/v1?label=Keras&message=50%&color=FF7139&style=for-the-badge&logo=Keras"/>
     </a>
   <h5>Others</h5>
     <a href="https://en.wikipedia.org/wiki/HTML5">
