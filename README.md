@@ -132,7 +132,7 @@ ________________________________________________________________________________
 </p>
 
 <p>
-  I build this algorithm when I was in my graduation in Universidade Federal de Itajubá how a test to be approval in Artificial Intelligence class. This script     creates a random Traveling Salesperson Problem and try to solve it wirh a Genetic Algorithm. At the end, the algorithm show the best route and plot it in space.   Was cool build this project.
+  I build this algorithm when I was in my graduation in Universidade Federal de Itajubá how a test to be approval in Artificial Intelligence class. This script     creates a random Traveling Salesperson Problem and try to solve it with a Genetic Algorithm. At the end, the algorithm show the best route and plot it in space. Was cool build this project.
 
 </p>
 
