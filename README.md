@@ -2,7 +2,9 @@
 <br>
 <p align="center"><img width = 150 src="https://user-images.githubusercontent.com/56659549/106941005-03b8c100-6701-11eb-9d77-0a4c296bd615.png"></p>
 <p> 
-  My name is Douglas Oliveira, I am from Maria da Fé, south of Minas Gerais in Brazil and currently a student of Computer Science at Universidade Federal de         Itajubá. I am a great enthusiast of Artificial Intelligence field, with focus in Data Science (from data capture to preparation for machine learning               algorithms), Machine Learning, Deep Learning, Mathematics and Statistics. My objective is turn a Data Scientist after my graduation that will occur in the end   of 2022. 
+  My name is Douglas Oliveira. I am from Maria da Fé, south of Minas Gerais - Brazil and currently a student of Computer Science at Universidade Federal de Itajubá. I am a great enthusiast of Artificial Intelligence field, with a focus on Data Science (from data capture to preparation for machine learning algorithms), Machine Learning, Deep Learning, Mathematics and Statistics. 
+
+  My current goal is to become a Data Scientist after my graduation , which will occur by the end of 2022. 
 </p>
 <br>
 <p align="center">
@@ -41,7 +43,7 @@ ________________________________________________________________________________
 <h3 align="center">Skills</h3>
 <br>
 <p> 
-  Here are some skills I currently have and all of these are in constant development with each project, course and study. below we have the technologies that I     know and beside my confidence in working with this respective tool.<br>
+  Here are some of the skills I currently have. All of these are in constant development with each project, course, and study. The following list includes the technologies I know and my confidence in using them.<br>
   <h5>IDE's</h5>
     <a href="https://jupyter.org/">
      <img src="https://img.shields.io/static/v1?label=Jupyter%20Notebook&message=95%&color=107C10&style=for-the-badge&logo=Jupyter"/>
@@ -104,7 +106,7 @@ ________________________________________________________________________________
 </p>
 
 <p>
-  My first Deep Learning framework for python. In this project I learned a lot of concepts, the theory and was cool to do. I tried do a easy to use framework to     help another beginners like me to understand how a neural network works, how implement, how use, how create distincts structures for differents issues and how     apply efficiently the many features that it have. 
+  This was my first Deep Learning framework for Python. In this project, I learned a lot of concepts and had a good time. The goal was to make an easy-to-use framework to help other beginners like me to understand how a neural network works, which includes: how to implement, use, create distinct structures for different issues, and efficiently apply the many features it has. 
 </p>
 
 <br>
@@ -118,7 +120,7 @@ ________________________________________________________________________________
 </p>
 
 <p>
-  This was one of my first projects when I really started in Data Science. Writted in my native language, I did an analysis beetwen the COVID-19 data offered by     government and the Brazil elections in 2018, too apply the Newcomb–Benford Law for fraud identification. The purpose of it is only apply my studies about Numpy,   Pandas, Matplotlib, Seaborn, Data Analysis and Statistics. It was from this project that I understood the strength of Data Science and statistical concepts and   that is why this work is much important to me.
+  This was one of my first projects when I really started in Data Science. Written in my native language, I analyzed and compared the COVID-19 data offered by the government and the Brazil elections in 2018, to apply the Newcomb–Benford Law for fraud identification. The purpose of it is only to apply my studies about Numpy,   Pandas, Matplotlib, Seaborn, Data Analysis, and Statistics. It was through this project that I understood the potential of Data Science, statistical concepts and that is why this work is very important to me.
 </p>
 
 <br>
@@ -132,13 +134,13 @@ ________________________________________________________________________________
 </p>
 
 <p>
-  I build this algorithm when I was in my graduation in Universidade Federal de Itajubá how a test to be approval in Artificial Intelligence class. This script     creates a random Traveling Salesperson Problem and try to solve it with a Genetic Algorithm. At the end, the algorithm show the best route and plot it in space. Was cool build this project.
+  I built this algorithm during my graduation in Universidade Federal de Itajubá as an assignment for the Artificial Intelligence class. This script creates a random Traveling Salesperson Problem and tries to solve it with a Genetic Algorithm. In the end, the algorithm shows the best route and plot it in space.This turned out to be a fun project as well.
 
 </p>
 
 _________________________________________________________________________________________________________________________________________________________________
-<a name="Statistics-Informations"/>
-<h3 align="center">Statistics Informations</h3>
+<a name="Statistics-Information"/>
+<h3 align="center">Statistics Information</h3>
 
 <br>
 <p align="center">
