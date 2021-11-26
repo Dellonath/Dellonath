@@ -4,7 +4,7 @@
 <p> 
   My name is Douglas Oliveira. I am from Maria da Fé, south of Minas Gerais - Brazil and currently a student of Computer Science at Universidade Federal de Itajubá. I am a great enthusiast of Artificial Intelligence field, with a focus on Data Science (from data capture to preparation for machine learning algorithms), Machine Learning, Deep Learning, Mathematics and Statistics. 
 
-  My current goal is to become a Data Scientist after my graduation , which will occur by the end of 2022. 
+  My current goal is to become a Data Scientist after my graduation , which will occur by the end of 2023. 
 </p>
 <br>
 <p align="center">
