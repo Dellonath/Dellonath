@@ -1,6 +1,5 @@
 <h2 align="center">Hi, welcome to my GitHub profile!</h2>
 <br>
-<p align="center"><img width = 150 src="https://user-images.githubusercontent.com/56659549/106941005-03b8c100-6701-11eb-9d77-0a4c296bd615.png"></p>
 <p> 
   My name is Douglas Oliveira. I am from Maria da Fé, south of Minas Gerais - Brazil and currently a student of Computer Science at Universidade Federal de Itajubá. I am a great enthusiast of Artificial Intelligence field, with a focus on Data Science (from data capture to preparation for machine learning algorithms), Machine Learning, Deep Learning, Mathematics and Statistics. 
 
