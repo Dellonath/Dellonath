@@ -1,9 +1,8 @@
 <h2 align="center">Hi, welcome to my GitHub profile!</h2>
 <br>
 <p> 
-  My name is Douglas Oliveira. I am from Maria da Fé, south of Minas Gerais - Brazil and currently a student of Computer Science at Universidade Federal de Itajubá. I am a great enthusiast of Artificial Intelligence field, with a focus on Data Science (from data capture to preparation for machine learning algorithms), Machine Learning, Deep Learning, Mathematics and Statistics. 
+  My name is Douglas Oliveira. I am from Maria da Fé, south of Minas Gerais - Brazil and currently a student of Computer Science at Universidade Federal de Itajubá. I am a great enthusiast of Artificial Intelligence field, with a focus on Data Science, Machine Learning, Deep Learning, Mathematics and Statistics. 
 
-  My current goal is to become a Data Scientist after my graduation , which will occur by the end of 2023. 
 </p>
 <br>
 <p align="center">
@@ -25,68 +24,12 @@ ________________________________________________________________________________
 <h3 align="center">Table of Contents</h3>
 <br>
 <p align="center">
- <a href="#Skills">
-   <img src="https://img.shields.io/badge/Skills-grey?style=for-the-badge">
- </a>
  <a href="#My-best-projects">
    <img src="https://img.shields.io/badge/My%20best%20projects-grey?style=for-the-badge">
  </a>
  <a href="#Statistics-Informations">
    <img src="https://img.shields.io/badge/Statistics%20Informations-grey?style=for-the-badge">
  </a> 
-</p>
-
-_________________________________________________________________________________________________________________________________________________________________
-
-<a name="Skills"/>
-<h3 align="center">Skills</h3>
-<br>
-<p> 
-  Here are some of the skills I currently have. All of these are in constant development with each project, course, and study. The following list includes the technologies I know and my confidence in using them.<br>
-  <h5>IDE's</h5>
-    <a href="https://jupyter.org/">
-     <img src="https://img.shields.io/static/v1?label=Jupyter%20Notebook&message=95%&color=107C10&style=for-the-badge&logo=Jupyter"/>
-    </a>
-    <a href="https://code.visualstudio.com/">
-     <img src="https://img.shields.io/static/v1?label=Visual%20Studio%20Code&message=90%&color=107C10&style=for-the-badge&logo=Visual-Studio-Code"/>
-    </a>
-  <h5>Programming Languages</h5>
-    <a href="https://www.python.org/">
-     <img src="https://img.shields.io/static/v1?label=Python&message=95%&color=107C10&style=for-the-badge&logo=Python"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-     <img src="https://img.shields.io/static/v1?label=C&message=70%&color=A8B9CC&style=for-the-badge&logo=C"/>
-    </a>
-  <h5>DBMS's</h5>
-    <a href="https://www.postgresql.org/">
-     <img src="https://img.shields.io/static/v1?label=PostgreSQL&message=65%&color=A8B9CC&style=for-the-badge&logo=PostgreSQL"/>
-    </a>
-  <h5>Libraries</h5>
-    <a href="https://numpy.org/">
-     <img src="https://img.shields.io/static/v1?label=Numpy&message=90%&color=107C10&style=for-the-badge&logo=Numpy"/>
-    </a>
-    <a href="https://pandas.pydata.org/">
-     <img src="https://img.shields.io/static/v1?label=Pandas&message=85%&color=107C10&style=for-the-badge&logo=pandas"/>
-    </a>
-    <a href="https://matplotlib.org/">
-     <img src="https://img.shields.io/static/v1?label=Matplotlib&message=85%&color=107C10&style=for-the-badge&logo=Semantic-Web"/>
-    </a>
-    <a href="https://seaborn.pydata.org/">
-     <img src="https://img.shields.io/static/v1?label=Seaborn&message=85%&color=107C10&style=for-the-badge&logo=Sketchfab"/>
-    </a>
-    <a href="https://scikit-learn.org/stable/">
-     <img src="https://img.shields.io/static/v1?label=Scikit-Learn&message=80%&color=107C10&style=for-the-badge&logo=scikit-learn"/>
-    </a>
-    <a href="https://keras.io/">
-     <img src="https://img.shields.io/static/v1?label=Keras&message=50%&color=FF7139&style=for-the-badge&logo=Keras"/>
-    </a>
-  <h5>Others</h5>
-    <a href="https://en.wikipedia.org/wiki/HTML5">
-     <img src="https://img.shields.io/static/v1?label=HTML5&message=50%&color=FF7139&style=for-the-badge&logo=HTML5"/>
-    </a>
-    <a href="https://pt.wikipedia.org/wiki/CSS3">
-     <img src="https://img.shields.io/static/v1?label=CSS3&message=30%&color=FF7139&style=for-the-badge&logo=CSS3"/>
-    </a>
 </p>
 
 _________________________________________________________________________________________________________________________________________________________________
