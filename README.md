@@ -1,7 +1,7 @@
 <h2 align="center">Hi, welcome to my GitHub profile!</h2>
 <br>
 <p> 
-  My name is Douglas Oliveira. I am from Maria da Fé, south of Minas Gerais - Brazil and currently a student of Computer Science at Universidade Federal de Itajubá. I am a great enthusiast of Artificial Intelligence field, with a focus on Data Science, Machine Learning, Deep Learning, Mathematics and Statistics. 
+  My name is Douglas Oliveira. I am from a little size city called Maria da Fé, Minas Gerais - Brazil. Now I am a bachelor's degree student of Computer Science at Universidade Federal de Itajubá. I am a great enthusiast of Artificial Intelligence field, with a focus on Data Science, Machine Learning, Deep Learning, Mathematics and Statistics.
 
 </p>
 <br>
@@ -13,9 +13,6 @@
   </a>
   <a href="https://www.linkedin.com/in/douglas-oliveira-5b36201b2/">
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Douglas%20Oliveira&color=0077B5&style=for-the-badge&logo=LinkedIn">
-  </a>
-  <a href="https://www.facebook.com/dellonath/">
-    <img src="https://img.shields.io/static/v1?label=Facebook&message=Douglas%20Oliveira&color=1877F2&style=for-the-badge&logo=Facebook">
   </a>
 </p>
 
