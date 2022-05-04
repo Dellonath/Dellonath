@@ -76,13 +76,3 @@ ________________________________________________________________________________
   I built this algorithm during my graduation in Universidade Federal de Itajubá as an assignment for the Artificial Intelligence class. This script creates a random Traveling Salesperson Problem and tries to solve it with a Genetic Algorithm. In the end, the algorithm shows the best route and plot it in space.This turned out to be a fun project as well.
 
 </p>
-
-_________________________________________________________________________________________________________________________________________________________________
-<a name="Statistics-Information"/>
-<h3 align="center">Statistics Information</h3>
-
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellonath&theme=gotham">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dellonath&show_icons=true&include_all_commits=true&theme=gotham">
-</p>
