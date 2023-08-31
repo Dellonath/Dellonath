@@ -1,7 +1,7 @@
 <h2 align="center">Hi, welcome to my GitHub profile!</h2>
 <br>
 <p> 
-  My name is Douglas Oliveira. An AWS data engineer with 3+ years of experience, working on different international projects and always looking to learn more and more.
+  My name is Douglas Oliveira. An AWS data engineer with 3+ years of experience, working on different international projects and always looking to learn more and more. Graduated computer scientist at UNIFEI - Universidade Federal de Itajubá.
 </p>
 <br>
 <p align="center">
