@@ -1,8 +1,7 @@
 <h2 align="center">Hi, welcome to my GitHub profile!</h2>
 <br>
 <p> 
-  My name is Douglas Oliveira. I am from a little size city called Maria da Fé, Minas Gerais - Brazil. Now I am a bachelor's degree student of Computer Science at Universidade Federal de Itajubá. I am a great enthusiast of Artificial Intelligence field, with a focus on Data Science, Machine Learning, Deep Learning, Mathematics and Statistics.
-
+  My name is Douglas Oliveira. An AWS data engineer with 3+ years of experience, working on different international projects and always looking to learn more and more.
 </p>
 <br>
 <p align="center">
